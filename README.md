@@ -20,9 +20,10 @@
 
 ## :page_with_curl: Sobre
   O GoRepositories consiste em uma aplicação para armazenamento de repositórios. 
-  Possui uma API REST construída em Node.js para servir tanto ao front-end, construído em ReactJS, quanto ao mobile com ReactNative.
+  Possui uma API REST construída em Node.js para servir tanto ao front-end, construído em ReactJS, quanto ao mobile feito em ReactNative.
 
   Na página Web é possível visualizar, cadastrar e deletar os repositórios.
+  Já o mobile serve para dar likes nos repositórios.
 
 ## :hammer: Tecnologias
 - [Node.js](https://github.com/nodejs/getting-started)
